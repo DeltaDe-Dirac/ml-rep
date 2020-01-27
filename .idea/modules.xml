@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EBMTool-v2.0/.idea/EBMTool.iml" filepath="$PROJECT_DIR$/../EBMTool-v2.0/.idea/EBMTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ML-recipes.iml" filepath="$PROJECT_DIR$/.idea/ML-recipes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GitHub/tensorflow-mnist-tutorial/.idea/tensorflow-mnist-tutorial.iml" filepath="$PROJECT_DIR$/../../GitHub/tensorflow-mnist-tutorial/.idea/tensorflow-mnist-tutorial.iml" />
+    </modules>
+  </component>
+</project>

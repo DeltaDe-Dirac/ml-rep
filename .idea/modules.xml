@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Python/EBMTool-v2.0/.idea/EBMTool.iml" filepath="$PROJECT_DIR$/../../Python/EBMTool-v2.0/.idea/EBMTool.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ml-rep.iml" filepath="$PROJECT_DIR$/.idea/ml-rep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tensorflow-mnist-tutorial/.idea/tensorflow-mnist-tutorial.iml" filepath="$PROJECT_DIR$/../tensorflow-mnist-tutorial/.idea/tensorflow-mnist-tutorial.iml" />
     </modules>
   </component>
 </project>
